@@ -3,8 +3,6 @@
 
 ## Home Regression Model
 
-https://miro.medium.com/max/1400/0*wKeMITP_ZBnPuKMX.jpg
-
 ### Overview
 
 This project entails using a multiple regression model to analyse home sales data in King County
@@ -13,13 +11,13 @@ This project entails using a multiple regression model to analyse home sales dat
 
 ### Business Problem
 
-As a consultant, my client, Sunset Real Estate Comany, is currently exploring the idea of purchasing properties to remodel either for the purpose selling or renting to prospective clients in King County.
+As a consultant, my client, Sunset Real Estate Company, is currently exploring the idea of purchasing properties to remodel either for the purpose selling or renting to prospective clients in King County.
 
 I will analyse the current housing data from King's County to understand better the different factors affecting housing within the county and advice on the best investment strategy.
 
 ### Objective
 
-To build a model that predicts the price of houses with anacceptably high accuracy.
+To build a model that predicts the price of houses with an acceptably high accuracy.
 
 To identify variables with the most weight when it comes to predicting the highest market price.
 
@@ -96,6 +94,8 @@ Less is more when it comes to the number of bedrooms. An unit increase in the be
 
 Newer houses fetch a higher price in the market. The goal should be to get houses off as soon as they hit the market.
 
+Increasing the sqft living of a house increases the market price.
+
 You've probably heard it before from Allsopp and Spencer but it indeed is about Location, Location, Location! Location makes all the difference. SOme of the Zipcodes that fetch the highest prices in the market include:
 
 zip_98004 - Beaux Arts Village
@@ -119,6 +119,15 @@ The different parts of seattle seems to be a huge preference for most of the hom
 Houses in condition 5 will fetch the highest price in the market and View 2 fetches a higher market price compared to view 1.
 
 A ideal house that would fetch the highest price in the market would be approximately 3 bedrooms, in Medina, WA (Zipcode 98039) with view 2 and in condition 5
+
+A major opportunity would be to find home which falls into the low conditions category and possibly renovate them in order to change the condition to the middle to high categories in order to to increase the estimated sales price.
+
+### For More Information
+
+See the full analysis in the Jupyter Notebook or review this presentation
+
+
+
 
 
 
