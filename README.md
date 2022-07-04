@@ -92,8 +92,6 @@ Views
 
 Less is more when it comes to the number of bedrooms. An unit increase in the bedrooms leads to a 2.38% drop in the sale price. To generate higher sale prices, Sunset Real Estate should focus on houses with few bedrooms (1,2 &3).
 
-Newer houses fetch a higher price in the market. The goal should be to get houses off as soon as they hit the market.
-
 Increasing the sqft living of a house increases the market price.
 
 You've probably heard it before from Allsopp and Spencer but it indeed is about Location, Location, Location! Location makes all the difference. SOme of the Zipcodes that fetch the highest prices in the market include:
